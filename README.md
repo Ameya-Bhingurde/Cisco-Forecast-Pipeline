@@ -97,9 +97,10 @@ A forecasting pipeline that blends team insights with data-driven predictions, o
 
 To run the full forecasting pipeline:
 
-1. Open the Jupyter notebook `Cisco-Forecast-Pipeline.ipynb`
-2. Run all cells from top to bottom
-3. Make sure the input file `Cisco Forecast League Clean.xlsx` is present in the same directory
+1. Make sure the input file `Cisco Forecast League Clean.xlsx` is present in the same directory
+2. Open the Jupyter notebook `Cisco-Forecast-Pipeline.ipynb`
+3. Run all cells from top to bottom
+
 
 The final forecast will be saved as:
 
