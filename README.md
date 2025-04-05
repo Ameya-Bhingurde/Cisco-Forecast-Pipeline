@@ -102,7 +102,8 @@ To run the full forecasting pipeline:
 3. Make sure the input file `Cisco Forecast League Clean.xlsx` is present in the same directory
 
 The final forecast will be saved as:
-'Final_Forecasts_FY25Q2.xlsx'
+
+**Output**: `Final_Forecasts_FY25Q2.xlsx`
 
 ---
 
