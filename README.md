@@ -1,4 +1,4 @@
-# 📈 Forecasting Pipeline with Cost-Weighted Ensemble Optimization
+# 📈 Forecasting Pipeline with Cost-Weighted Predictions
 
 A forecasting pipeline that blends team insights with data-driven predictions, optimized using cost-weighted error metrics and multi-quarter backtesting. The final forecast is a smart blend of machine learning and human intuition — tuned to minimize business impact.
 
